@@ -1,4 +1,4 @@
-package com.raus.endermiteParasites;
+package com.chai.endermiteParasites;
 
 import org.bukkit.Location;
 import org.bukkit.entity.Entity;

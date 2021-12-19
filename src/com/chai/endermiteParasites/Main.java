@@ -1,4 +1,4 @@
-package com.raus.endermiteParasites;
+package com.chai.endermiteParasites;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class Main extends JavaPlugin
